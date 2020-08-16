@@ -6,7 +6,7 @@ const MainContainer = styled.div`
   flex-direction: column;
 `;
 
-//https://alexwohlbruck.github.io/cat-facts/docs/
+
 
 function RandomCatFact() {
   const [fact, setFact] = React.useState()
